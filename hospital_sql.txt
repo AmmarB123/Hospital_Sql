@@ -1,0 +1,126 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2024-02-12 13:18:54
+LastUsageStatisticCall<|||>1<|||>2024-02-12 13:18:57
+LastSessions<|||>1<|||>ab2111
+LastActiveSession<|||>1<|||>ab2111
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>1,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>434,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+querymemoheight<|||>3<|||>436
+sqloutheight<|||>3<|||>30
+MainWinLeft<|||>3<|||>543
+MainWinTop<|||>3<|||>95
+MainWinWidth<|||>3<|||>824
+MainWinMaximized<|||>3<|||>1
+FileDialogEncoding_MainForm<|||>3<|||>0
+MemoEditorWidth<|||>3<|||>136
+DateTimeEditor_CursorPos_Type4<|||>3<|||>11
+SessionManager_WindowLeft<|||>3<|||>619
+SessionManager_WindowTop<|||>3<|||>99
+SQLFile0<|||>1<|||>C:\Users\Asus\AppData\Roaming\HeidiSQL\Backups\query-tab-2022-01-17_21-03-10-016.sql
+SQLFile1<|||>1<|||>C:\Users\Asus\Downloads\a2-1.sql
+SQLFile2<|||>1<|||>C:\Users\Asus\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-12-16_19-14-25-263.sql
+SQLFile3<|||>1<|||>C:\Users\Asus\Documents\a2.sql
+SQLFile4<|||>1<|||>C:\Users\Asus\AppData\Roaming\HeidiSQL\Backups\query-tab-.sql
+SQLFile5<|||>1<|||>C:\Users\Asus\Downloads\a2.sql
+SQLFile6<|||>1<|||>C:\Users\Asus\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-11-16_00-16-36-855.sql
+SQLFile7<|||>1<|||>C:\Users\Asus\Downloads\hospital_setup.sql
+Servers\ab2111\SessionCreated<|||>1<|||>2021-11-02 20:31:14
+Servers\ab2111\Host<|||>1<|||>krier.uscs.sussex.ac.uk
+Servers\ab2111\WindowsAuth<|||>3<|||>0
+Servers\ab2111\CleartextPluginEnabled<|||>3<|||>0
+Servers\ab2111\User<|||>1<|||>ab2111
+Servers\ab2111\Password<|||>1<|||>56827C7A75683E3B39393C3A9
+Servers\ab2111\LoginPrompt<|||>3<|||>0
+Servers\ab2111\Port<|||>1<|||>3306
+Servers\ab2111\NetType<|||>3<|||>0
+Servers\ab2111\Compressed<|||>3<|||>0
+Servers\ab2111\LocalTimeZone<|||>3<|||>0
+Servers\ab2111\QueryTimeout<|||>3<|||>30
+Servers\ab2111\KeepAlive<|||>3<|||>20
+Servers\ab2111\FullTableStatus<|||>3<|||>1
+Servers\ab2111\Databases<|||>1<|||>
+Servers\ab2111\Library<|||>1<|||>libmariadb.dll
+Servers\ab2111\Comment<|||>1<|||>
+Servers\ab2111\StartupScriptFilename<|||>1<|||>
+Servers\ab2111\TreeBackground<|||>3<|||>536870911
+Servers\ab2111\SSHtunnelHost<|||>1<|||>
+Servers\ab2111\SSHtunnelHostPort<|||>3<|||>22
+Servers\ab2111\SSHtunnelUser<|||>1<|||>
+Servers\ab2111\SSHtunnelPassword<|||>1<|||>6
+Servers\ab2111\SSHtunnelTimeout<|||>3<|||>4
+Servers\ab2111\SSHtunnelPrivateKey<|||>1<|||>
+Servers\ab2111\SSHtunnelPort<|||>3<|||>3307
+Servers\ab2111\SSL_Active<|||>3<|||>0
+Servers\ab2111\SSL_Key<|||>1<|||>
+Servers\ab2111\SSL_Cert<|||>1<|||>
+Servers\ab2111\SSL_CA<|||>1<|||>
+Servers\ab2111\SSL_Cipher<|||>1<|||>
+Servers\ab2111\IgnoreDatabasePattern<|||>1<|||>
+Servers\ab2111\LogFileDdl<|||>3<|||>0
+Servers\ab2111\LogFileDml<|||>3<|||>0
+Servers\ab2111\LogFilePath<|||>1<|||>C:\Users\Asus\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\ab2111\RefusedCount<|||>3<|||>4
+Servers\ab2111\ServerVersionFull<|||>1<|||>8.0.36 - MySQL Community Server - GPL
+Servers\ab2111\ConnectCount<|||>3<|||>37
+Servers\ab2111\ServerVersion<|||>3<|||>80036
+Servers\ab2111\LastConnect<|||>1<|||>2024-02-12 13:19:05
+Servers\ab2111\lastUsedDB<|||>1<|||>ab2111
+Servers\ab2111\ab2111|doctor\Sort<|||>1<|||>1_salary|
+Servers\ab2111\ab2111|operation\Sort<|||>1<|||>0_theatre_no|
+Servers\ab2111\ab2111|patient\Sort<|||>1<|||>1_ni_number|
+Servers\ab2111\QueryHistory\389<|||>1<|||>2022-01-17 23:51:55|ab2111|172|CREATE TABLE clients(<{{{><}}}>FName VARCHAR(50) NOT NULL,<{{{><}}}>LName VARCHAR(50) NOT NULL,<{{{><}}}>phone_no  BIGINT(10) NOT NULL,<{{{><}}}>client_no INT(8) NOT NULL,<{{{><}}}>PRIMARY KEY(client_no),<{{{><}}}>email VARCHAR(64) NOT NULL,<{{{><}}}>budget BIGINT NOT NULL,<{{{><}}}>inquiry TEXT NOT NULL<{{{><}}}>);
+Servers\ab2111\QueryHistory\1<|||>1<|||>2022-01-17 23:52:00|ab2111|156|CREATE TABLE employee(<{{{><}}}>id INT(8),<{{{><}}}>FName VARCHAR(50), <{{{><}}}>LName VARCHAR(50),<{{{><}}}>PRIMARY KEY(id)<{{{><}}}>);
+Servers\ab2111\QueryHistory\2<|||>1<|||>2022-01-17 23:52:09|ab2111|172|CREATE TABLE location(<{{{><}}}>id INT(8),<{{{><}}}>PRIMARY KEY(id),<{{{><}}}>location_name VARCHAR(128)<{{{><}}}>);
+Servers\ab2111\QueryHistory\3<|||>1<|||>2022-01-17 23:52:23|ab2111|157|CREATE TABLE property_type(<{{{><}}}>id INT(8),<{{{><}}}>PRIMARY KEY(id),<{{{><}}}>type_name VARCHAR(128)<{{{><}}}>);
+Servers\ab2111\QueryHistory\4<|||>1<|||>2022-01-18 19:02:00|ab2111|203|CREATE TABLE property(<{{{><}}}>id INT(8) NOT NULL,<{{{><}}}>PRIMARY KEY(id),<{{{><}}}>property_name VARCHAR(255),<{{{><}}}>town_id INT(8),<{{{><}}}>property_type_id INT(8),<{{{><}}}>floor_space DECIMAL(8,2) NOT NULL,<{{{><}}}>number_of_balconies INT NOT NULL,<{{{><}}}>number_of_bedrooms INT NOT NULL,<{{{><}}}>number_of_bathrooms INT NOT NULL,<{{{><}}}>property_descryption TEXT,<{{{><}}}>CONSTRAINT FK_town_id FOREIGN KEY (town_id) REFERENCES location(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>CONSTRAINT FK_property_type_id FOREIGN KEY (property_type_id) REFERENCES property_type(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT<{{{><}}}>);
+Servers\ab2111\QueryHistory\5<|||>1<|||>2022-01-18 19:03:20|ab2111|172|CREATE TABLE in_charge(<{{{><}}}>id INT(8),<{{{><}}}>PRIMARY KEY(id),<{{{><}}}>property_id INT (8),<{{{><}}}>CONSTRAINT FK_property_id FOREIGN KEY (property_id) REFERENCES property(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>employee_id INT(8),<{{{><}}}>CONSTRAINT FK_employee_id FOREIGN KEY (employee_id) REFERENCES employee(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>date_from DATE,<{{{><}}}>date_to DATE NOT NULL<{{{><}}}>);
+Servers\ab2111\QueryHistory\6<|||>1<|||>2022-01-19 13:59:26|ab2111|203|CREATE TABLE transcation_type(<{{{><}}}>id INT(8) PRIMARY KEY,<{{{><}}}>transaction_type_name VARCHAR(64)<{{{><}}}>);
+Servers\ab2111\QueryHistory\7<|||>1<|||>2022-01-19 14:21:39|ab2111|203|CREATE TABLE contract_type(<{{{><}}}>id INT(8) PRIMARY KEY,<{{{><}}}>conttract_type_name VARCHAR(64),<{{{><}}}>fee_precentage DECIMAL(5,2)<{{{><}}}>);
+Servers\ab2111\QueryHistory\8<|||>1<|||>2022-01-19 14:27:46|ab2111|204|CREATE TABLE transactions(<{{{><}}}>id INT(8) PRIMARY KEY,<{{{><}}}>transaction_type_id INT(8),<{{{><}}}>CONSTRAINT FK_transaction_type_id FOREIGN KEY (transaction_type_id) REFERENCES transcation_type(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>client_offer INT,<{{{><}}}>transaction_date DATE, <{{{><}}}>transaction_details TEXT<{{{><}}}>);
+Servers\ab2111\QueryHistory\9<|||>1<|||>2022-01-19 14:32:41|ab2111|203|CREATE TABLE contract(<{{{><}}}>id INT(8) PRIMARY KEY,<{{{><}}}>client_id INT(8),<{{{><}}}>CONSTRAINT FK_client_id FOREIGN KEY (client_id) REFERENCES clients(client_no)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>employee_ids INT(8),<{{{><}}}>CONSTRAINT FK_employee_ids FOREIGN KEY (employee_ids) REFERENCES employee(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>contract_type_id INT(8),<{{{><}}}>CONSTRAINT FK_contract_type_id FOREIGN KEY (contract_type_id) REFERENCES contract_type(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>contract_details TEXT,<{{{><}}}>number_of_invoices INT,<{{{><}}}>payment_amount DECIMAL(10,2) NULL,<{{{><}}}>fee_precentage DECIMAL(5,2),<{{{><}}}>fee_amount DECIMAL(10,2) NULL,<{{{><}}}>date_signed DATE,<{{{><}}}>start_date DATE,<{{{><}}}>end_date DATE,<{{{><}}}>trasaction_id INT(8),<{{{><}}}>CONSTRAINT FK_trasaction_id FOREIGN KEY (trasaction_id) REFERENCES transactions(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT<{{{><}}}>);
+Servers\ab2111\QueryHistory\10<|||>1<|||>2022-01-19 14:32:47|ab2111|203|CREATE TABLE contract_invoice(<{{{><}}}>id INT(8) PRIMARY KEY,<{{{><}}}>contract_id INT(8),<{{{><}}}>CONSTRAINT FK_contract_id FOREIGN KEY (contract_id) REFERENCES contract(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>invoice_number VARCHAR(64),<{{{><}}}>issued_by TEXT,<{{{><}}}>issued_to TEXT,<{{{><}}}>invoice_details TEXT,<{{{><}}}>invoice_amount DECIMAL(10,2),<{{{><}}}>date_created DATE,<{{{><}}}>billing_date DATE,<{{{><}}}>date_paid DATE NULL<{{{><}}}>);
+Servers\ab2111\QueryHistory\11<|||>1<|||>2022-01-19 14:37:49|ab2111|204|CREATE TABLE under_contract(<{{{><}}}>id INT(8) PRIMARY KEY,<{{{><}}}>property_ids INT(8),<{{{><}}}>CONSTRAINT FK_property_ids FOREIGN KEY (property_ids) REFERENCES property(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT,<{{{><}}}>contract_ids INT(8),<{{{><}}}>CONSTRAINT FK_contract_ids FOREIGN KEY (contract_ids) REFERENCES contract(id)<{{{><}}}>ON DELETE CASCADE ON UPDATE RESTRICT<{{{><}}}>);
